@@ -1,3 +1,5 @@
+# Flashes All built in LED same random colours
+# Random Delay 0 - 0.5 seconds between each colour change
 import board
 import time
 from random import randint, uniform
